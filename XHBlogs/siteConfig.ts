@@ -3,7 +3,7 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "春日の小窝",
-  faviconUrl: "https://cdn.jsdelivr.net/gh/Haruhi0909/Haruhi0909/haruhi.jpg",
+  faviconUrl: "https://cdn.jsdelivr.net/gh/Haruhi0909/images/haruhi.jpg",
   authorName: "小春日",
   bio: "一个普通上班族，喜欢研究一些好玩的东西",
 
@@ -15,7 +15,7 @@ export const siteConfig = {
   navAfter: "小窝",
 
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
-  avatarUrl: "https://cdn.jsdelivr.net/gh/Haruhi0909/Haruhi0909/haruhi.jpg",
+  avatarUrl: "https://cdn.jsdelivr.net/gh/Haruhi0909/images/haruhi.jpg",
 
   // 3. 网站背景设置 (二选一)
   // 如果想用纯图片背景，请在下面 bgImage 写路径，并将 useGradient 设为 false
